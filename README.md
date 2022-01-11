@@ -34,7 +34,7 @@ Here is the contract deployment on etherscan: https://goerli.etherscan.io/addres
 You can deploy directly to goerli yourself via the  following command, just add your metamask info to the .env file. 
 
 ```shell script
-truffle migrate -f 2 --to 2 --network **goerli**  
+truffle migrate -f 2 --to 2 --network goerli  
 ```
 or deploy and run the tests by changing the above number 2 to 3 or 4.
 
