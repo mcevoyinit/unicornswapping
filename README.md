@@ -99,7 +99,6 @@ If the blockchain is EVM compatible the process it easier and we can keep the so
 - Consider security more closely à la https://consensys.github.io/smart-contract-best-practices/
 - Implement formal access control layer https://docs.openzeppelin.com/contracts/4.x/access-control
 - Consider solidity libraries/frameworks https://docs.openzeppelin.com/contracts/4.x/api/security
-- There is more detail in the README but here are some other items I've been pondering
 - gas estimation and calculation infrastructure or tooling. 
 - scripts to parse pairs from existing swaps/lists, parallelization on client-side contract interactions.
 - swap gui for above the uses calculation tools. 
